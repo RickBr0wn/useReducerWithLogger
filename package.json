@@ -1,0 +1,11 @@
+{
+  "name": "usereducerwithlogger",
+  "version": "1.0.0",
+  "description": "A useReducer hook with logging capabilities",
+  "main": "useReducerWithLogger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick Brown <ricky.brown.00@gmail.com> (https://github.com/RickBr0wn/minimal-react-boilerplate)",
+  "license": "MIT"
+}
